@@ -1,0 +1,16 @@
+{
+	"name": "bitburner-playground",
+	"version": "1.0.0",
+	"description": "",
+	"author": "Nuogz",
+	"license": "LGPL-3.0-or-later",
+	"main": "index.js",
+	"type": "module",
+	"engines": {
+		"node": ">=14.18.1"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"eslint": "^8.6.0"
+	}
+}
